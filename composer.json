@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "cloudinary/cloudinary_php": "^3.1.0",
+        "cloudinary/cloudinary_php": "^2.9.0",
         "illuminate/contracts": "^11.0|^12.0",
         "illuminate/filesystem": "^11.0|^12.0",
         "illuminate/http": "^11.0|^12.0",
