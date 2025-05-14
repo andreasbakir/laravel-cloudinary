@@ -1,5 +1,5 @@
 {
-    "name": "yoelpc4/laravel-cloudinary",
+    "name": "andreasbakir/laravel-cloudinary",
     "description": "Laravel Cloudinary filesystem cloud driver.",
     "keywords": [
         "laravel",
